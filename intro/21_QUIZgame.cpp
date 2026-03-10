@@ -38,7 +38,7 @@ int main() {
         }
     }
     std::cout<<"*************************\n";
-    std::cout<<"Your score is: "<<score<<'\n';
+    std::cout<<"Your score is: "<<score<<"/4\n";
     std::cout<<"****************************";
     return 0;
 }
