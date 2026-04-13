@@ -6,7 +6,6 @@ int main() {
     int age=19;
     std::string freePizzas[5]={"p1","p2","p3","p4","p5"};
 
-
     std::string *pName=&name;
     int *pAge=&age;
     std::string *pFreePizzas= freePizzas;
